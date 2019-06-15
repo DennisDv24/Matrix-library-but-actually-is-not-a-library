@@ -14,7 +14,7 @@ namespace MathNetPractice2
             M<int> a = new M<int>(new int[,]{ {1,2},
                                               {4,5},
                                               {7,8} });
-            
+            a.Display();
         }
 
     }
@@ -32,10 +32,10 @@ namespace MathNetPractice2
 
             }
 
-                public void display(){
+                public void Display(){
 
                     for(int i = 0; i < arr.Col(0).Length; i++){
-                        arr.Row(i).display();
+                        arr.Row(i).Display();
                         Console.WriteLine();
                     }
 
@@ -53,7 +53,7 @@ namespace MathNetPractice2
 
     public static class genericARRextensionMethods{
         
-        public static void display<T>(this T[] arr){
+        public static void Display<T>(this T[] arr){
 
             Console.Write("[");
                 for(int i = 0; i<arr.Length; i++){
