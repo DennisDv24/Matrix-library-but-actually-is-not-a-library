@@ -13,8 +13,7 @@ namespace MathNetPractice2
         {
             M<int> a = new M<int>(new int[,]{ {1,2},
                                               {4,5},
-                                              {7,8} });//Revise code, can go out of range<<<----
-            a.display();                                     //But thats dont have sense because .display() works well.
+                                              {7,8} });
             
         }
 
