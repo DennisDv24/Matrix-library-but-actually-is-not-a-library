@@ -11,9 +11,9 @@ namespace MathNetPractice2
     {
         static void Main(string[] args)
         {
-            M<int> a = new M<int>(new int[,]{ {1,2,3,67,8},
-                                              {4,5,6,11,2},
-                                              {7,8,9,3,5} });//Revise code, can go out of range<<<----
+            M<int> a = new M<int>(new int[,]{ {1,2},
+                                              {4,5},
+                                              {7,8} });//Revise code, can go out of range<<<----
             a.display();                                     //But thats dont have sense because .display() works well.
             
         }
@@ -35,7 +35,7 @@ namespace MathNetPractice2
 
                 public void display(){
 
-                    for(int i = 0; i < arr.Row(0).Length; i++){
+                    for(int i = 0; i < arr.Col(0).Length; i++){
                         arr.Row(i).display();
                         Console.WriteLine();
                     }
