@@ -1,0 +1,11 @@
+/home/dennis3/programming/c#RandomProjects/MathNetPractice2/obj/Debug/netcoreapp2.2/MathNetPractice2.csprojAssemblyReference.cache
+/home/dennis3/programming/c#RandomProjects/MathNetPractice2/obj/Debug/netcoreapp2.2/MathNetPractice2.csproj.CoreCompileInputs.cache
+/home/dennis3/programming/c#RandomProjects/MathNetPractice2/obj/Debug/netcoreapp2.2/MathNetPractice2.AssemblyInfoInputs.cache
+/home/dennis3/programming/c#RandomProjects/MathNetPractice2/obj/Debug/netcoreapp2.2/MathNetPractice2.AssemblyInfo.cs
+/home/dennis3/programming/c#RandomProjects/MathNetPractice2/bin/Debug/netcoreapp2.2/MathNetPractice2.deps.json
+/home/dennis3/programming/c#RandomProjects/MathNetPractice2/bin/Debug/netcoreapp2.2/MathNetPractice2.runtimeconfig.json
+/home/dennis3/programming/c#RandomProjects/MathNetPractice2/bin/Debug/netcoreapp2.2/MathNetPractice2.runtimeconfig.dev.json
+/home/dennis3/programming/c#RandomProjects/MathNetPractice2/bin/Debug/netcoreapp2.2/MathNetPractice2.dll
+/home/dennis3/programming/c#RandomProjects/MathNetPractice2/bin/Debug/netcoreapp2.2/MathNetPractice2.pdb
+/home/dennis3/programming/c#RandomProjects/MathNetPractice2/obj/Debug/netcoreapp2.2/MathNetPractice2.dll
+/home/dennis3/programming/c#RandomProjects/MathNetPractice2/obj/Debug/netcoreapp2.2/MathNetPractice2.pdb
